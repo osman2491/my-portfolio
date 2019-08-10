@@ -1,11 +1,26 @@
-h1 {color:white;
+h1 {
     font-size: 50px;
-    background-color: blue;
     text-align: center;
+    font-family: 'Red Hat Text', sans-serif;
 }
-h2 {size: bold;
-text-align: center;
-text-decoration: underline;}
-.body{
-    background-color: blue;
+h2 {
+    size: bold;
+    text-align: center;
+    text-decoration: underline; 
+}
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+img { 
+}
+
+.center-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px 15px 15px 15px;
+    box-shadow: 1px 1px ;
+    border: 1px;
+    padding: 10px;
 }
