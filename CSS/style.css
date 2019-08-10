@@ -1,6 +1,11 @@
 h1 {color:white;
-    font-size: 24px;
+    font-size: 50px;
+    background-color: blue;
+    text-align: center;
 }
-body{
+h2 {size: bold;
+text-align: center;
+text-decoration: underline;}
+.body{
     background-color: blue;
 }
