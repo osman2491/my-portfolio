@@ -20,12 +20,11 @@ html {
     overflow-y: scroll;
     height: 100%;
 }
-ul {
-    list-style-type: none;
+ul {text-emphasis: blue;
     margin: 0px;
     padding: 0px;
-    background-color: brown;
-  }
+    background: url(../images/kaitlyn-baker-vZJdYl5JVXY-unsplash.jpg) no-repeat center center fixed;
+}
 .welcome {
     background: url(../images/kaitlyn-baker-vZJdYl5JVXY-unsplash.jpg) no-repeat center center fixed; 
     -webkit-background-size: cover;
@@ -51,4 +50,29 @@ ul {
 .about-me {
     background-color: #D55E00;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.my-hobbies {
+    border: 0px solid grey;
+    background: #D55E00;
+    border-left: solid brown;
+    border-right: solid brown;
+    border-top: solid brown;
+    border-bottom: solid brown;
+    width: 100%;
+    height: 50%;
+    margin: 0%;
+}
+.journey {
+    margin: 1px;
+    box-shadow: 1px 1px;
+    border: 1px;
+    padding: 1px;
+    border-radius: 1px;
+}
+.quote {
+    text-align: right;
+    -webkit-text-fill-color: whitesmoke;
+}
+.navs {
+    font-size: 20px;
 }
