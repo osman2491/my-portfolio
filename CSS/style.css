@@ -1,5 +1,4 @@
 body{
-    background: linear-gradient(141deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%);
     text-align: center;
 }
 ul {
@@ -31,3 +30,8 @@ img {
   padding: 5px;
   width: 550px;
 }
+html {
+    overflow-y: scroll;
+    height: 100%;
+}
+    
