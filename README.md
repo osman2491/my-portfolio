@@ -1,6 +1,6 @@
 portfolio
 This is an application for my portfolio landing page, 12/08/2019
-By Abdulfatah Mohamed, Josiah Ngugi and Moringa School
+By Osman Mohamed and Moringa School
 ReadmeImg
 
 Description
