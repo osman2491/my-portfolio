@@ -37,7 +37,7 @@ ul {text-emphasis: blue;
     width: 100%;
     height: 100%;
 }
-    .center-image {
+.center-image {
         /* display: block; */
         margin-left: auto;
         margin-right: auto;
@@ -47,12 +47,15 @@ ul {text-emphasis: blue;
         padding: 10px;
 }
 .about-me {
-    background-color: #3AB0C7;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: url("../images/sec.jpeg");
+    background-image: no-repeat;
+    background-size: cover;
 }
 .my-hobbies {
     border: 0px solid grey;
-    background: #D55E00;
+    background-image: url("../images/first.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
     border-left: solid brown;
     border-right: solid brown;
     border-top: solid brown;
@@ -74,4 +77,16 @@ ul {text-emphasis: blue;
 }
 .navs {
     font-size: 20px;
+}
+.contacts {
+    border-image: 250px;
+    text-align: center;
+    font-size: 25px;
+    -webkit-text-fill-color: black;
+    text-emphasis: float;right: 10px
+}
+.contact me {
+    position: absolute;
+    top: 8px;
+    right: 16px;
 }
