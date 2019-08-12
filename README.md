@@ -1,5 +1,5 @@
 portfolio
-This is an application for my portfolio landing page, 3/08/2018
+This is an application for my portfolio landing page, 12/08/2019
 By Abdulfatah Mohamed, Josiah Ngugi and Moringa School
 ReadmeImg
 
@@ -19,12 +19,12 @@ Technologies Used
 HTML CSS Atom and XAMPP
 
 Support and contact details
-For more information call +254789268466 or Email me fertahrez@gmail.com
+For more information call +25472491217 or Email me osman67239121@gmail.com
 
 License
 *MIT License
 
-Copyright (c) [2018] [Abdulfatah Mohamed]
+Copyright (c) [2019] [osman Mohamed]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
