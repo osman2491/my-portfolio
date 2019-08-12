@@ -19,7 +19,7 @@ Technologies Used
 HTML CSS Atom and XAMPP
 
 Support and contact details
-For more information call +25472491217 or Email me osman67239121@gmail.com
+For more information call +254724912157 or Email me osman67239121@gmail.com
 
 License
 *MIT License
